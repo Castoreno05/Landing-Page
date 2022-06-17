@@ -1,0 +1,53 @@
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+body {
+    background-color: aqua;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 35px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+#Contact {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+
+.content {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgreen;
+    color: #ffffff;
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+}
+
+.content h1 {
+    text-align: center;
+}
+    
+   
